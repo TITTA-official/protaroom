@@ -11,7 +11,7 @@ import Typewriter from 'typewriter-effect'
 import GraphemeSplitter from 'grapheme-splitter'
 
 const words = [
-  'For you, everything has its design...',
+  'Check For you, everything has its design...',
   'We build the design with you in mind...',
   //   'We are a community of designers, creating experiences that inspire people productively',
   //   'Leverage on our creative expertise to communicate your values',
